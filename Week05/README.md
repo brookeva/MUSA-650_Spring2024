@@ -1,19 +1,11 @@
 # MUSA 650: Machine Learning in Remote Sensing
 
-## Week4: 
+## Week5: Cross-validation, bias variance threadoff, model complexity, evaluation
 
-### Morning Session (hands-on):
-
-- [Brain age prediction challenge](BrainAgePrediction_TrainData.zip)
-  Download the zip file and start the jupyter-lab notebook for the task description
-
-- [Notebook for the brain age prediction task](week4_practice_brainage.ipynb)
-
-### New Topics: Supervised learning, bias variance threadoff, model complexity, PCA
+[Cross-validation: evaluating estimator performance](https://scikit-learn.org/stable/modules/cross_validation.html)
 
 This repository contains:
 
-- [A visual intro to supervised learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1)
 - [Bias and variance](http://www.r2d3.us/visual-intro-to-machine-learning-part-2)
 - [Model complexity, a regression example](Prac1_ModelComplexity.ipynb)
 - [Classifier Comparison](Prac2_ClassifierComparison_v1.ipynb)
